@@ -52,11 +52,7 @@ if (resultado < 0) {
     alert("Su empresa generó una pérdida de " + resultado + " en el año evaluado, por ende lo vemos como una PyME de confiabilidad baja")    
 } else {
     alert("Su empresa generó una ganancia de " + resultado + " en el año evaluado, por ende lo vemos como una PyME de confiabilidad alta")
-}
-
-console.log(flujoCaja);
-console.log(ingresosTotales);
-console.log(egresosTotales);
+};
 
 
 
